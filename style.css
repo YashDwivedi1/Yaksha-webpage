@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#back{
+    width: 100%;
+    height: 100%;
+    background-image:url(https://www.syanart.com/wp-content/uploads/2016/01/s-warth-yasha-4k.jpg);
+    background-size: cover;
+}
+#front{
+    width: 20%;
+    height: 100%;
+    background-color: rgba(196, 173, 74, 0.678);
+    padding: 2%;
+}
+ h1{
+    font-family: cursive;
+    padding-bottom: 30px; 
+}
+ p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 30px;
+}
+ button{
+     background-color: lightblue;
+     font-family: gilroy;
+     padding: 9px;
+ }
+#login{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: 17%;
+    height: 50%;
+    background-color: antiquewhite;
+}
+#top{
+    width: 100%;
+    height: 50%;
+    background-image:url(https://vistapointe.net/images/asuras-wrath-wallpaper-10.jpg) ;
+    background-size: cover;
+    border-width: 10px;
+    border-style: solid;
+}
+#bottom{
+    width: 100%;
+    height: 50%;
+    color:black;
+    padding: 5px;
+    background-color: rgb(218, 122, 32);
+}
+ h3{
+     color: black;
+     font-family: gilroy;
+     padding:5px;
+ }
+ p{
+     color: black;
+     font-family: gilroy;
+     padding: 5px;
+     padding-bottom: 15px;
+ }
+ a{
+     color: blueviolet;
+     font-size: medium;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     text-decoration: none;
+ }
+ a1{
+     color: blue;
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+ }
+ 
